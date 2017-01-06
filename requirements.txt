@@ -1,0 +1,9 @@
+blinker
+click
+py-dateutil
+faker
+flask
+PyHamcrest
+nose
+NoseGAE
+flask-testing
