@@ -1,6 +1,6 @@
 Welcome to memory, an starter kit for a Flask application running on Google App Engine.
 
-Install Google App Engine SDK for python.
+[Install Google App Engine SDK for python.](https://cloud.google.com/appengine/downloads)
 
 Create a virtual env and install requirements:
 ```
