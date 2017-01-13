@@ -11,12 +11,12 @@ pip install -r requirements.txt
 
 Install dependencies for GAE:
 ```
-pip install requierements.txt -t lib
+pip install -r requirements.txt -t lib
 ```
 
-Run this to start smoke tests:
+Run this to start smoke tests, using GAE plugin for nose:
 ```
-nosetests application/
+nosetests --with-gae application/
 ```
 
 You should see something like this:
